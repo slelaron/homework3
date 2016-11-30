@@ -1,0 +1,5 @@
+<resources>
+	<string name="app_name">Homework3</string>
+	<string name="error_text">"Картинка не загружена</string>
+	<string name="picture_name">Picture.jpg</string>
+</resources>
